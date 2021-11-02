@@ -1,0 +1,11 @@
+/* HEADER */
+
+.main-header {
+    text-align: center;
+    font-weight: bolder;
+    font-size: 2rem;
+}
+
+.main-header span {
+    color: rgb(212, 212, 0);
+}
